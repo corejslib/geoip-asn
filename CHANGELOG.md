@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.0.53 (2025-12-10)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [4ec753f](https://github.com/c0rejs/geoip-asn/commit/4ec753f), [b3d900e](https://github.com/c0rejs/geoip-asn/commit/b3d900e), [c658f22](https://github.com/c0rejs/geoip-asn/commit/c658f22), [b0c7aef](https://github.com/c0rejs/geoip-asn/commit/b0c7aef); 👬 zdm)
+
+- chore(metadata): update package metadata (● [e94dd35](https://github.com/c0rejs/geoip-asn/commit/e94dd35); 👬 zdm)
+
+Compare with the previous release: [v1.0.52](https://github.com/c0rejs/geoip-asn/compare/v1.0.52...v1.0.53)
+
 ### v1.0.52 (2025-07-23)
 
 **Other changes:**
