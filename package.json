@@ -1,5 +1,5 @@
 {
-    "name": "@softvisio/geoip-asn",
+    "name": "@c0rejs/geoip-asn",
     "version": "1.0.52",
     "description": "GeoIP ASN",
     "keywords": [
@@ -19,7 +19,7 @@
     "author": "root <root@softvisio.net>",
     "type": "module",
     "imports": {
-        "#core/*": "@softvisio/core/*",
+        "#core/*": "@c0rejs/core/*",
         "#lib/*": "./lib/*.js"
     },
     "exports": {
@@ -36,6 +36,6 @@
         "install": "node bin/install.js"
     },
     "peerDependencies": {
-        "@softvisio/core": "^7.36.4"
+        "@c0rejs/core": "^7.36.4"
     }
 }
