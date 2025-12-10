@@ -6,14 +6,14 @@
         "softvisio",
         "geoip"
     ],
-    "homepage": "https://softvisio-node.github.io/geoip-asn/",
+    "homepage": "https://c0rejs.github.io/geoip-asn/",
     "bugs": {
-        "url": "https://github.com/softvisio-node/geoip-asn/issues",
+        "url": "https://github.com/c0rejs/geoip-asn/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/softvisio-node/geoip-asn.git"
+        "url": "git+https://github.com/c0rejs/geoip-asn.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
