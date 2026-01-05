@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.55 (2026-01-05)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [9f2d1a4](https://github.com/c0rejs/geoip-asn/commit/9f2d1a4); 👬 zdm)
+
+Compare with the previous release: [v1.0.54](https://github.com/c0rejs/geoip-asn/compare/v1.0.54...v1.0.55)
+
 ### v1.0.54 (2025-12-11)
 
 **Bug fixes:**
