@@ -1,6 +1,6 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> ℹ️ Please, see the full project documentation here:<br><https://c0rejs.github.io/geoip-asn/>
+> ℹ️ Please, see the full project documentation here:<br><https://corejslib.github.io/geoip-asn/>
 
 # Introduction
 
@@ -11,13 +11,13 @@ Database is updated automatically every 4 hours during the process runtime.
 ## Install
 
 ```sh
-npm install @c0rejs/geoip-asn
+npm install @corejslib/geoip-asn
 ```
 
 ## Usage
 
 ```javascript
-import geiipAsn from "@c0rejs/geoip-asn";
+import geiipAsn from "@corejslib/geoip-asn";
 
 const res = geiipAsn.get( ipAddress );
 ```
