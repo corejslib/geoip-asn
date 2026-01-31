@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.0.59 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename package (● [900f2a1](https://github.com/corejslib/geoip-asn/commit/900f2a1), [34c783d](https://github.com/corejslib/geoip-asn/commit/34c783d); 👬 zdm)
+
+Compare with the previous release: [v1.0.58](https://github.com/corejslib/geoip-asn/compare/v1.0.58...v1.0.59)
+
 ### v1.0.58 (2026-01-29)
 
 No changes since the previous release.
