@@ -1,25 +1,25 @@
 {
-    "name": "@c0rejs/geoip-asn",
+    "name": "@corejslib/geoip-asn",
     "version": "1.0.58",
     "description": "GeoIP ASN",
     "keywords": [
         "softvisio",
         "geoip"
     ],
-    "homepage": "https://c0rejs.github.io/geoip-asn/",
+    "homepage": "https://corejslib.github.io/geoip-asn/",
     "bugs": {
-        "url": "https://github.com/c0rejs/geoip-asn/issues",
+        "url": "https://github.com/corejslib/geoip-asn/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/c0rejs/geoip-asn.git"
+        "url": "git+https://github.com/corejslib/geoip-asn.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
     "type": "module",
     "imports": {
-        "#core/*": "@c0rejs/core/*",
+        "#core/*": "@corejslib/core/*",
         "#lib/*": "./lib/*.js"
     },
     "exports": {
@@ -36,6 +36,6 @@
         "install": "node bin/install.js"
     },
     "peerDependencies": {
-        "@c0rejs/core": "^7.36.4"
+        "@corejslib/core": "^7.36.4"
     }
 }

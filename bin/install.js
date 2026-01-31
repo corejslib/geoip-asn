@@ -18,7 +18,7 @@ const CLI = {
 
 await Cli.parse( CLI );
 
-externalResources.add( "c0rejs/core/resources/geolite2-asn" );
+externalResources.add( "corejslib/core/resources/geolite2-asn" );
 
 const res = await externalResources.install( {
     "force": process.cli.options.force,
