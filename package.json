@@ -1,6 +1,6 @@
 {
     "name": "@corejslib/geoip-asn",
-    "version": "1.0.72",
+    "version": "1.0.73",
     "description": "GeoIP ASN",
     "keywords": [
         "geoip"
