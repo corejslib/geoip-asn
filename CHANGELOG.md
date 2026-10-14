@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.2.1 (2026-10-14)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: clarify MMDB initialization and naming (● [4861395](https://github.com/corejslib/geoip-asn/commit/4861395); 👬 zdm)
+
+Compare with the previous release: [v1.2.0...v1.2.1](https://github.com/corejslib/geoip-asn/compare/v1.2.0...v1.2.1)
+
 ### v1.2.0 (2026-10-14)
 
 **New features:**
