@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.2.0 (2026-10-14)
+
+**New features:**
+
+- \[MINOR] feat: emit events when ASN database updates (● [1febfc6](https://github.com/corejslib/geoip-asn/commit/1febfc6); 👬 zdm)
+
+Compare with the previous release: [v1.1.0...v1.2.0](https://github.com/corejslib/geoip-asn/compare/v1.1.0...v1.2.0)
+
 ### v1.1.0 (2026-10-14)
 
 **New features:**
