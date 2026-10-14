@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.1.0 (2026-10-14)
+
+**New features:**
+
+- \[MINOR] feat: expose ASN database path (● [ec5cee3](https://github.com/corejslib/geoip-asn/commit/ec5cee3); 👬 zdm)
+
+Compare with the previous release: [v1.0.73...v1.1.0](https://github.com/corejslib/geoip-asn/compare/v1.0.73...v1.1.0)
+
 ### v1.0.73 (2026-09-07)
 
 **Code refactoring:**
