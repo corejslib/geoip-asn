@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.2.2 (2026-11-24)
+
+**Bug fixes**:
+
+- \[PATCH] fix: fix cli config (● [258a738](https://github.com/corejslib/geoip-asn/commit/258a738); 👬 zdm)
+
+Compare with the previous release: [v1.2.1...v1.2.2](https://github.com/corejslib/geoip-asn/compare/v1.2.1...v1.2.2)
+
 ### v1.2.1 (2026-10-14)
 
 **Code refactoring:**
